@@ -1,0 +1,2 @@
+We will be describing the database inPython language.
+Makemigrations will look for the available databases and creates the migrations for the database that is not there.Migrate will run the migrations and create table in database.
